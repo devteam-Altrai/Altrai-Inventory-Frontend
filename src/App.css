@@ -1,0 +1,10 @@
+.custom-gradient {
+  background: linear-gradient(#ffffff 15%, #ef5e42 67%);
+}
+
+.headercolor {
+  color: #ef5e42;
+}
+.bodycolor {
+  color: black;
+}
